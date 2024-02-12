@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's José and I'm a system administrator. I  like making VMs and web apps whil. I'm studying  in CUCEI.
 
-  I am most skilled in: <mark>PHP</mark> and <mark>Seeing movies</mark>
+  I am most skilled in: <mark>Phyton</mark> and <mark>VM</mark>
 
 content:
   - title: Projects # Title for the section
@@ -108,10 +108,9 @@ content:
       - Gaming
       - [Myanimelist](https://myanimelist.net/profile/symphomatic)
       - [Letterboxd](https://letterboxd.com/symphomatic/)
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Berserk](berserk.jpg "Berserk")
+      ![berserk](images/berserk.jpg "berserk")
 
 # Footer
 footer_show_references: true
