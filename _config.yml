@@ -6,17 +6,17 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
+name: José Hernandez 
 title: Senior Network System Administrator
 email: brett.h@email.co.uk
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username:  symphomatic
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
